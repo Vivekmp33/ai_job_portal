@@ -9,6 +9,6 @@ include("../includes/navbar.php");
 ?>
 <main class="container card">
   <h2>Settings</h2>
-  <p>Yahan future me password change, site settings add kar sakte ho.</p>
+  <p>welcome.</p>
 </main>
 <?php include("../includes/footer.php"); ?>

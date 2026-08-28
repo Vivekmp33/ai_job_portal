@@ -8,10 +8,9 @@ This platform allows Employers to post jobs, Job Seekers to apply, and Admin to 
 
 # 👨‍💻 Developer
 
-**Mohammed Arhan**  
-Full Stack Developer & AI/ML Engineer  
-Zephyr Technologies  
-🎓 MCA Graduate  
+**Prashanth**  
+Full Stack Developer.
+🎓 BCA Graduate  
 
 ---
 
@@ -159,4 +158,4 @@ INSERT INTO categories (name) VALUES
 ('Marketing'),
 ('Finance'),
 ('HR'),
-('Sales');`
+('Sales');
