@@ -8,9 +8,9 @@ This platform allows Employers to post jobs, Job Seekers to apply, and Admin to 
 
 # 👨‍💻 Developer
 
-**Prashanth**  
+**Vivek M P**  
 Full Stack Developer.
-🎓 BCA Graduate  
+🎓 B.E Graduate  
 
 ---
 

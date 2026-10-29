@@ -9,7 +9,7 @@ include("includes/navbar.php");
   <div class="container about-container">
 
       <div class="about-header">
-          <h1>Prashanth</h1>
+          <h1>Vivek M P</h1>
           <p class="about-role">
               Full Stack Developer & AI/ML Engineer  
               
@@ -19,12 +19,12 @@ include("includes/navbar.php");
       <div class="about-card">
           <h2>About Me</h2>
           <p>
-              I am Prashanth, a passionate Full Stack Developer and AI/ML Engineer.
+              I am Vivek M P, a passionate Full Stack Developer and AI/ML Engineer.
               I specialize in building modern web applications and intelligent systems that combine clean design with powerful backend logic.
           </p>
 
           <p>
-              I hold a Bachelor of Computer Applications (BCA) degree and have strong expertise in web development,
+              I hold a Bachelor of Engineering in Computer Science (B.E CSE) degree and have strong expertise in web development,
               database management, and artificial intelligence technologies. I enjoy creating scalable, secure,
               and user-friendly applications that solve real-world problems.
           </p>
@@ -39,7 +39,7 @@ include("includes/navbar.php");
 
           <div class="about-box">
               <h3>🎓 Education</h3>
-              <p>BCA Graduate with strong foundations in software engineering and artificial intelligence.</p>
+              <p>B.E Graduate with strong foundations in software engineering and artificial intelligence.</p>
           </div>
 
           <div class="about-box">
